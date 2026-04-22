@@ -1,3 +1,4 @@
+<img width="853" height="208" alt="Sales_2" src="https://github.com/user-attachments/assets/10080197-fe6c-4ec1-9f9e-5dbc9281ac31" />
 # Sales Data Analysis Dashboard
 
 ## 📊 Project Overview
@@ -30,6 +31,7 @@ This project analyzes sales data to identify key business insights, profitabilit
 - Sales Dataset (Excel)
 - Tableau Dashboard
 - <img width="1031" height="594" alt="Sales_1" src="https://github.com/user-attachments/assets/1a354718-f5d2-45f7-9e21-07e00a6bdadd" />
+- <img width="853" height="208" alt="Sales_2" src="https://github.com/user-attachments/assets/6fbb959a-1dc8-441c-9aed-f9bfa491d38e" />
 
 
 ## Author
