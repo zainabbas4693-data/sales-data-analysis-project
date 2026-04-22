@@ -29,9 +29,8 @@ This project analyzes sales data to identify key business insights, profitabilit
 ## 📁 Files
 - Sales Dataset (Excel)
 - Tableau Dashboard
-- <img width="1031" height="594" alt="Sales_1" src="https://github.com/user-attachments/assets/1a354718-f5d2-45f7-9e21-07e00a6bdadd" />
-- <img width="1031" height="208" alt="Sales_2" src="https://github.com/user-attachments/assets/6fbb959a-1dc8-441c-9aed-f9bfa491d38e" />
-
+- <img width="991" height="331" alt="Sales_2" src="https://github.com/user-attachments/assets/9ec835ae-0ebf-477b-929f-14b305bbff07" />
+- <img width="999" height="465" alt="Sales_1" src="https://github.com/user-attachments/assets/be0762fd-7d4a-42a6-97f5-7d0c9f6318e4" />
 
 ## Author
 Zain Abbas - LinkedIn:www.linkedin.com/in/zainabbasdataanalyst
